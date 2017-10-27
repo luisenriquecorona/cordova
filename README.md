@@ -1,2 +1,2 @@
 # cordova
-index device ready
+http://cordova.apache.org/
