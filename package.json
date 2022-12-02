@@ -1,0 +1,22 @@
+> npm init --yes
+Wrote to /home/luisenriquecorona/cordova/package.json:
+
+{
+  "name": "my_package_textki",
+  "description": "Córdova Browser app device ready",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisenriquecorona/my_package.git"
+  },
+  "keywords": [],
+  "author": "luisenriquecorona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisenriquecorona/cordova/issues"
+  },
+  "homepage": "https://github.com/luisenriquecorona/cordova"
+}
