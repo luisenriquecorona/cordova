@@ -2,21 +2,21 @@
 Wrote to /home/luisenriquecorona/cordova/package.json:
 
 {
-  "name": "my_package_textki",
-  "description": "Córdova Browser app device ready",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "nombre" : " paquete.json " ,
+  "descripción" : " dispositivo de aplicación listo " ,
+  "versión" : " 1.0.0 " ,
+  "guiones" : {
+    "prueba" : " echo \" Error: no se especificó ninguna prueba \" && exit 1 "
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/luisenriquecorona/my_package.git"
+  "repositorio" : {
+    "tipo" : " git " ,
+    "url" : " https://github.com/luisenriquecorona/cordova.git "
   },
-  "keywords": [],
-  "author": "luisenriquecorona",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/luisenriquecorona/cordova/issues"
+  "palabras clave" : [textki],
+  "autor" : " textki " ,
+  "licencia" : " ISC " ,
+  "errores" : {
+    "url" : " https://github.com/luisenriquecorona/cordova/issues "
   },
-  "homepage": "https://github.com/luisenriquecorona/cordova"
+  "página de inicio" : " https://github.com/luisenriquecorona/cordova "
 }
