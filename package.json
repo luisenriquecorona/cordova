@@ -17,3 +17,7 @@
   },
   "homepage": "https://github.com/luisenriquecorona/cordova"
 }
+
+"publishConfig": {
+   "@luisenriquecorona:registry": "https://npm.pkg.github.com"
+ }
