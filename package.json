@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "description": "app device ready",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisenriquecorona/cordova.git"
+  },
+  "keywords": [],
+  "author": "textki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisenriquecorona/cordova/issues"
+  },
+  "homepage": "https://github.com/luisenriquecorona/cordova"
+}
