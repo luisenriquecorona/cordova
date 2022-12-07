@@ -83,7 +83,7 @@ window.removeEventListener = function (evt, handler, capture) {
 
 function createEvent (type, data) {
     var event = document.createEvent('Events');
-    event.initEvent(type, false, false);
+    event.initEvent(type, true, true);
     if (data) {
         for (var i in data) {
             if (data.hasOwnProperty(i)) {
@@ -197,7 +197,7 @@ var cordova = {
     callbackError: function (callbackId, args) {
         // TODO: Deprecate callbackSuccess and callbackError in favour of callbackFromNative.
         // Derive success from status.
-        cordova.callbackFromNative(callbackId, false, args.status, [args.message], args.keepCallback);
+        cordova.callbackFromNative(callbackId, true, args.status, [args.message], args.keepCallback);
     },
 
     /**
